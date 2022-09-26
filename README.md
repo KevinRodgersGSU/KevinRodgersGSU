@@ -5,7 +5,9 @@ Linkedin: https://www.linkedin.com/in/kevinrrodgers/
 Email: kevinreecerodgers@gmail.com
 
 ### Python
-[SIR Models](https://github.com/KevinRodgersGSU/SIR_Models) - Python-based SIR models graphed using matplotlib
+[NBA Player Tracker](https://github.com/KevinRodgersGSU/nba_player_tracker)
+
+[SIR Models](https://github.com/KevinRodgersGSU/SIR_Models) - Python-based SIR epidemiological models graphed using matplotlib
 
 [Moore Neighborhood](https://github.com/KevinRodgersGSU/MooreNeighborhood) - Python implementation of 2d cellular automa model
 
@@ -14,6 +16,8 @@ Email: kevinreecerodgers@gmail.com
 [Shortest Paths](https://github.com/KevinRodgersGSU/ShortestPathsEasy) -
 
 [Page Rank](https://github.com/KevinRodgersGSU/PageRank)
+
+
 
 ### C
 
