@@ -5,7 +5,7 @@ Linkedin: https://www.linkedin.com/in/kevinrrodgers/
 Email: kevinreecerodgers@gmail.com
 
 ### Python
-[NBA Player Tracker](https://github.com/KevinRodgersGSU/nba_player_tracker) - Full Stack Web applicaiton that allows users to keep track of favorite NBA players' stats
+[NBA Player Tracker](https://github.com/KevinRodgersGSU/nba_player_tracker) - Full Stack Web applicaiton that allows users to keep track of their favorite NBA players' stats
 
 [SIR Models](https://github.com/KevinRodgersGSU/SIR_Models) - Python-based SIR epidemiological models graphed using matplotlib
 
