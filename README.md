@@ -4,7 +4,5 @@
 Linkedin: https://www.linkedin.com/in/kevinrrodgers/
 Email: kevinreecerodgers@gmail.com
 
-<!---
-KevinRodgersGSU/KevinRodgersGSU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Python
+[SIR Models](https://github.com/KevinRodgersGSU/SIR_Models) - Python-based SIR models graphed using matplotlib
