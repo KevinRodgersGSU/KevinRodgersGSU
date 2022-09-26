@@ -9,6 +9,10 @@ Email: kevinreecerodgers@gmail.com
 
 [Moore Neighborhood](https://github.com/KevinRodgersGSU/MooreNeighborhood) - Python implementation of 2d cellular automa model
 
+[Shortest Paths](https://github.com/KevinRodgersGSU/ShortestPathsEasy) -
+
+[Page Rank](https://github.com/KevinRodgersGSU/PageRank)
+
 ### C
 
 [University Database](https://github.com/KevinRodgersGSU/C/tree/main/UniversityDB)
