@@ -9,6 +9,8 @@ Email: kevinreecerodgers@gmail.com
 
 [Moore Neighborhood](https://github.com/KevinRodgersGSU/MooreNeighborhood) - Python implementation of 2d cellular automa model
 
+[Random Walk Epidemiology Model](https://github.com/KevinRodgersGSU/RandomWalk)
+
 [Shortest Paths](https://github.com/KevinRodgersGSU/ShortestPathsEasy) -
 
 [Page Rank](https://github.com/KevinRodgersGSU/PageRank)
