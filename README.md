@@ -8,3 +8,7 @@ Email: kevinreecerodgers@gmail.com
 [SIR Models](https://github.com/KevinRodgersGSU/SIR_Models) - Python-based SIR models graphed using matplotlib
 
 [Moore Neighborhood](https://github.com/KevinRodgersGSU/MooreNeighborhood) - Python implementation of 2d cellular automa model
+
+### C
+
+[University Database](https://github.com/KevinRodgersGSU/C/tree/main/UniversityDB)
