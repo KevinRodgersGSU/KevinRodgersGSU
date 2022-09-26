@@ -19,7 +19,10 @@ Email: kevinreecerodgers@gmail.com
 
 [Page Rank](https://github.com/KevinRodgersGSU/PageRank)
 
+### Javascript
+[NBA Player Tracker](https://github.com/KevinRodgersGSU/nba_player_tracker)
 
+[Movie Explorer](https://github.com/KevinRodgersGSU/MovieExplorer)
 
 ### C
 
