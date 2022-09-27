@@ -11,6 +11,8 @@ Email: kevinreecerodgers@gmail.com
 
 [SIR Models](https://github.com/KevinRodgersGSU/SIR_Models) - Python-based SIR epidemiological models graphed using matplotlib
 
+[Support Vector Machine](https://github.com/KevinRodgersGSU/SupportVectorMachine) - python based machine learning SVM
+
 [Moore Neighborhood](https://github.com/KevinRodgersGSU/MooreNeighborhood) - Python implementation of 2d cellular automa model
 
 [Random Walk Epidemiology Model](https://github.com/KevinRodgersGSU/RandomWalk)
