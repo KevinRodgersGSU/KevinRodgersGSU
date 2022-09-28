@@ -4,6 +4,8 @@
 Linkedin: https://www.linkedin.com/in/kevinrrodgers/
 Email: kevinreecerodgers@gmail.com
 
+Resume: https://kevinrodgersgsu.github.io/resume/
+
 ### Python
 [NBA Player Tracker](https://github.com/KevinRodgersGSU/nba_player_tracker) - Full Stack Web applicaiton that allows users to keep track of their favorite NBA players' stats
 
