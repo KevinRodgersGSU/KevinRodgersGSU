@@ -2,7 +2,9 @@
 - 🌱 I’m currently learning Next.JS
 
 Linkedin: https://www.linkedin.com/in/kevinrrodgers/
+
 Email: kevinreecerodgers@gmail.com
+
 Resume: https://kevinrodgersgsu.github.io/resume/
 
 ### Python
